@@ -17,6 +17,9 @@ namespace designerduck
             // Dynamically update a class at runtime
             model.FlyBehavior = new FlyRocketPowered();       
             model.performFly();
+
+            DuckCall duckCall = new DuckCall();
+            duckCall.performQuack();
         }
     }
 }
