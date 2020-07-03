@@ -2,8 +2,8 @@ namespace DesignerDuck.Models
 {
     public abstract class Duck
     {
-        FlyBehavior flyBehavior;
-        QuackBehavior quackBehavior;
+        IFlyBehavior flyBehavior;
+        IQuackBehavior quackBehavior;
 
         public Duck()
         {

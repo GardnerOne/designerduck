@@ -1,0 +1,12 @@
+/Users/gardnerone/dev/designerduck/obj/Debug/netcoreapp3.1/designerduck.csprojAssemblyReference.cache
+/Users/gardnerone/dev/designerduck/obj/Debug/netcoreapp3.1/designerduck.AssemblyInfoInputs.cache
+/Users/gardnerone/dev/designerduck/obj/Debug/netcoreapp3.1/designerduck.AssemblyInfo.cs
+/Users/gardnerone/dev/designerduck/obj/Debug/netcoreapp3.1/designerduck.csproj.CoreCompileInputs.cache
+/Users/gardnerone/dev/designerduck/bin/Debug/netcoreapp3.1/designerduck.deps.json
+/Users/gardnerone/dev/designerduck/bin/Debug/netcoreapp3.1/designerduck.runtimeconfig.json
+/Users/gardnerone/dev/designerduck/bin/Debug/netcoreapp3.1/designerduck.runtimeconfig.dev.json
+/Users/gardnerone/dev/designerduck/bin/Debug/netcoreapp3.1/designerduck.dll
+/Users/gardnerone/dev/designerduck/bin/Debug/netcoreapp3.1/designerduck.pdb
+/Users/gardnerone/dev/designerduck/obj/Debug/netcoreapp3.1/designerduck.dll
+/Users/gardnerone/dev/designerduck/obj/Debug/netcoreapp3.1/designerduck.pdb
+/Users/gardnerone/dev/designerduck/obj/Debug/netcoreapp3.1/designerduck.genruntimeconfig.cache
