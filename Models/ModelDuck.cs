@@ -2,17 +2,17 @@ using designerduck.Models.Behaviors;
 
 namespace designerduck.Models
 {
-    public class MallardDuck : Duck
+    public class ModelDuck : Duck
     {
-        public MallardDuck()
+        public ModelDuck()
         {
-            FlyBehavior = new FlyWithWings();
+            FlyBehavior = new FlyNoWay();
             QuackBehavior = new Quack();
         }
 
         public override void display()
         {
-            System.Console.WriteLine("I'm a real Mallard duck.");
+            System.Console.WriteLine("I'm a model duck.");
         }
     }
 }

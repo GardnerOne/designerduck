@@ -4,8 +4,8 @@ namespace designerduck.Models
 {
     public abstract class Duck
     {
-        public IFlyBehavior flyBehavior;
-        public IQuackBehavior quackBehavior;
+        public IFlyBehavior FlyBehavior { get; set; }
+        public IQuackBehavior QuackBehavior { get; set; }
 
         public Duck()
         {
@@ -16,12 +16,12 @@ namespace designerduck.Models
 
         public void performFly()
         {
-            flyBehavior.fly();
+            FlyBehavior.fly();
         }
 
         public void performQuack()
         {
-            quackBehavior.quack();
+            QuackBehavior.quack();
         }
 
         public void swim()
