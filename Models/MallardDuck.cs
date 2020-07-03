@@ -1,6 +1,6 @@
-using DesignerDuck.Models.Behaviors;
+using designerduck.Models.Behaviors;
 
-namespace DesignerDuck.Models
+namespace designerduck.Models
 {
     public class MallardDuck : Duck
     {

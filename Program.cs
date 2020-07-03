@@ -1,5 +1,5 @@
 ﻿using System;
-using DesignerDuck.Models;
+using designerduck.Models;
 
 namespace designerduck
 {
