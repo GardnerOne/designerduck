@@ -1,4 +1,5 @@
 ﻿using System;
+using DesignerDuck.Models;
 
 namespace designerduck
 {
@@ -6,7 +7,10 @@ namespace designerduck
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Duck mallard = new MallardDuck();
+            mallard.performFly();
+            mallard.performQuack();
+            
         }
     }
 }

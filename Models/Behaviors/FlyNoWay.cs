@@ -1,4 +1,4 @@
-namespace DesignerDuck.Models
+namespace DesignerDuck.Models.Behaviors
 {
     public class FlyNoWay : IFlyBehavior
     {
